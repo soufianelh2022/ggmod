@@ -7,7 +7,6 @@
     "tags": ["City", "Roleplay"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
       "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/"
     ]
   },
@@ -19,7 +18,6 @@
     "tags": ["Sandbox", "Building"],
     "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
     ]
   },
@@ -31,432 +29,7 @@
     "tags": ["Sandbox", "Simple"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
       "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/"
-    ]
-  },
-
-  {
-    "id": "gm_atomic",
-    "category": "Maps",
-    "title": "GM Atomic",
-    "description": "An industrial sandbox map with warehouses, open yards, and testing areas.",
-    "tags": ["Sandbox", "Industrial"],
-    "image_url": "https://images.steamusercontent.com/ugc/653084019417714712/7B0DBD8E874DA66E9B823899F6F63EF5F018F813/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/653084019417714712/7B0DBD8E874DA66E9B823899F6F63EF5F018F813/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/653084019417714712/7B0DBD8E874DA66E9B823899F6F63EF5F018F813/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_bluehills_test3",
-    "category": "Maps",
-    "title": "GM Bluehills (Test3)",
-    "description": "A wide open outdoor sandbox map with hills and large build space.",
-    "tags": ["Sandbox", "Outdoor"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/855135151239638269/565C3EEB19E760722CA9D91893F76399F57F55CA/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/855135151239638269/565C3EEB19E760722CA9D91893F76399F57F55CA/",
-      "https://steamuserimages-a.akamaihd.net/ugc/855135151239638269/565C3EEB19E760722CA9D91893F76399F57F55CA/"
-    ]
-  },
-  {
-    "id": "gm_bigcity_4t",
-    "category": "Maps",
-    "title": "GM Bigcity (4T)",
-    "description": "A city-style sandbox map designed for exploration and roleplay.",
-    "tags": ["City", "Sandbox"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/766103461265778213/42A25B8B79E24FF410B2E60FAE737BB1E9C29052/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/766103461265778213/42A25B8B79E24FF410B2E60FAE737BB1E9C29052/",
-      "https://steamuserimages-a.akamaihd.net/ugc/766103461265778213/42A25B8B79E24FF410B2E60FAE737BB1E9C29052/"
-    ]
-  },
-  {
-    "id": "gm_compound_night",
-    "category": "Maps",
-    "title": "GM Compound (Night)",
-    "description": "A darker environment with compact spaces and atmosphere.",
-    "tags": ["Sandbox", "Dark"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1856043687576755269/5206751D23D7A15BDBB9DBA8F94D50A6250D35E4/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1856043687576755269/5206751D23D7A15BDBB9DBA8F94D50A6250D35E4/",
-      "https://steamuserimages-a.akamaihd.net/ugc/1856043687576755269/5206751D23D7A15BDBB9DBA8F94D50A6250D35E4/"
-    ]
-  },
-  {
-    "id": "gm_funzone",
-    "category": "Maps",
-    "title": "GM Funzone",
-    "description": "A playful sandbox map with varied areas made for fun experiments and builds.",
-    "tags": ["Sandbox", "Fun"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/441127731373346397/93B0FAF04D1BFD16F060C2A68AFD30CBBCE88B09/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/441127731373346397/93B0FAF04D1BFD16F060C2A68AFD30CBBCE88B09/",
-      "https://steamuserimages-a.akamaihd.net/ugc/441127731373346397/93B0FAF04D1BFD16F060C2A68AFD30CBBCE88B09/"
-    ]
-  },
-
-  {
-    "id": "gm_warmap_v5",
-    "category": "Maps",
-    "title": "GM Warmap (v5)",
-    "description": "A tactical sandbox map with structured zones for testing and combat play.",
-    "tags": ["Sandbox", "Testing"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/"
-    ]
-  },
-  {
-    "id": "rebellland",
-    "category": "Maps",
-    "title": "Rebellland",
-    "description": "A large map with open land, small towns, and roleplay-friendly areas.",
-    "tags": ["Roleplay", "Sandbox"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/03B2D3B313A86CBE26E4E014F8E5A2F9A9AB7A38/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/03B2D3B313A86CBE26E4E014F8E5A2F9A9AB7A38/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/03B2D3B313A86CBE26E4E014F8E5A2F9A9AB7A38/"
-    ]
-  },
-  {
-    "id": "city_limits_day",
-    "category": "Maps",
-    "title": "City Limits (Day)",
-    "description": "A daylight city environment with streets, buildings, and exploration paths.",
-    "tags": ["City", "Roleplay"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/060A18F390E0355B1A5D0E5B7A6C4B3F5C8A33D6/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/060A18F390E0355B1A5D0E5B7A6C4B3F5C8A33D6/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/060A18F390E0355B1A5D0E5B7A6C4B3F5C8A33D6/"
-    ]
-  },
-  {
-    "id": "gmod13_hotels",
-    "category": "Maps",
-    "title": "GMod13 Hotels",
-    "description": "A hotel-style map great for roleplay, scenes, and interior exploration.",
-    "tags": ["Roleplay", "Indoor"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/5982F4C53AC7EE8D9E2AEAF6F11D7C0F05B2A1DE/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/5982F4C53AC7EE8D9E2AEAF6F11D7C0F05B2A1DE/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/5982F4C53AC7EE8D9E2AEAF6F11D7C0F05B2A1DE/"
-    ]
-  },
-
-  {
-    "id": "rp_necro_forest",
-    "category": "Maps",
-    "title": "RP Necro Forest",
-    "description": "A moody forest map with caves and exploration paths for roleplay.",
-    "tags": ["Roleplay", "Forest"],
-    "image_url": "https://images.steamusercontent.com/ugc/615046359672451933/4E15C37B64D302C2980686D682A2284B5A4FFFEB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/615046359672451933/4E15C37B64D302C2980686D682A2284B5A4FFFEB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/615046359672451933/4E15C37B64D302C2980686D682A2284B5A4FFFEB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "rp_cc_caves_01",
-    "category": "Maps",
-    "title": "RP CC Caves 01",
-    "description": "A coastal cliff-and-cave environment built for atmosphere and exploration.",
-    "tags": ["Roleplay", "Caves"],
-    "image_url": "https://images.steamusercontent.com/ugc/882976911848664510/743F5A53E44C5122F8AB1EAF4B96195AF5307D89/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/882976911848664510/743F5A53E44C5122F8AB1EAF4B96195AF5307D89/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/882976911848664510/743F5A53E44C5122F8AB1EAF4B96195AF5307D89/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "rp_locality",
-    "category": "Maps",
-    "title": "RP Locality",
-    "description": "A compact urban roleplay map with streets, buildings, and interiors.",
-    "tags": ["Roleplay", "City"],
-    "image_url": "https://images.steamusercontent.com/ugc/685967544753534177/9D50F608730CD0ADAE8763B26EF5D3C1792EED7F/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/685967544753534177/9D50F608730CD0ADAE8763B26EF5D3C1792EED7F/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/685967544753534177/9D50F608730CD0ADAE8763B26EF5D3C1792EED7F/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "rp_paralake_city",
-    "category": "Maps",
-    "title": "RP Paralake City",
-    "description": "A bright modern city-style roleplay map with clean streets and open spaces.",
-    "tags": ["Roleplay", "City"],
-    "image_url": "https://images.steamusercontent.com/ugc/3317202311098340507/B2FD3368533BDF40E380FAF4B32C29289579EE4E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/3317202311098340507/B2FD3368533BDF40E380FAF4B32C29289579EE4E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/3317202311098340507/B2FD3368533BDF40E380FAF4B32C29289579EE4E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "rp_stardestroyer",
-    "category": "Maps",
-    "title": "RP Stardestroyer",
-    "description": "A space roleplay map featuring a massive starship interior and exterior scenes.",
-    "tags": ["Roleplay", "Sci-Fi"],
-    "image_url": "https://images.steamusercontent.com/ugc/262709175064706616/034EFE9231711E76227C7CFDDF2EB3EC146F161D/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/262709175064706616/034EFE9231711E76227C7CFDDF2EB3EC146F161D/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/262709175064706616/034EFE9231711E76227C7CFDDF2EB3EC146F161D/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_renastunnels_v2",
-    "category": "Maps",
-    "title": "GM Rena's Tunnels (v2)",
-    "description": "War-torn tunnels and parking structures with dramatic lighting and atmosphere.",
-    "tags": ["Sandbox", "Underground"],
-    "image_url": "https://images.steamusercontent.com/ugc/721995798957096781/57426EB7ACFCCDAEFCEAADCFA30A0FE7085687E8/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/721995798957096781/57426EB7ACFCCDAEFCEAADCFA30A0FE7085687E8/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/721995798957096781/57426EB7ACFCCDAEFCEAADCFA30A0FE7085687E8/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_shootingrange",
-    "category": "Maps",
-    "title": "GM Shooting Range",
-    "description": "A small testing map to practice aim and weapon behavior.",
-    "tags": ["Testing", "Sandbox"],
-    "image_url": "https://images.steamusercontent.com/ugc/956349129211145649/3A886AB12674BD88E9EA77122184C3D591399CAB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/956349129211145649/3A886AB12674BD88E9EA77122184C3D591399CAB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/956349129211145649/3A886AB12674BD88E9EA77122184C3D591399CAB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_moonbase",
-    "category": "Maps",
-    "title": "GM Moonbase",
-    "description": "A moon base map with low-gravity feel and sci-fi exploration zones.",
-    "tags": ["Sci-Fi", "Sandbox"],
-    "image_url": "https://images.steamusercontent.com/ugc/598160214767364611/D8072E5510117CD1730113FB055DA4DA3AC8BACD/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/598160214767364611/D8072E5510117CD1730113FB055DA4DA3AC8BACD/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/598160214767364611/D8072E5510117CD1730113FB055DA4DA3AC8BACD/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "rp_coast_03_v5",
-    "category": "Maps",
-    "title": "RP Coast 03 (v5)",
-    "description": "A sunset coast roleplay map with atmospheric lighting and coastline areas.",
-    "tags": ["Roleplay", "Coast"],
-    "image_url": "https://images.steamusercontent.com/ugc/3336348333492852889/A59C266CA0393E5D6EA25225E233EB83FABCF8D9/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/3336348333492852889/A59C266CA0393E5D6EA25225E233EB83FABCF8D9/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/3336348333492852889/A59C266CA0393E5D6EA25225E233EB83FABCF8D9/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_lair",
-    "category": "Maps",
-    "title": "GM Lair",
-    "description": "A tropical island with a hidden lair inside a volcano.",
-    "tags": ["Adventure", "Island"],
-    "image_url": "https://images.steamusercontent.com/ugc/596985016615412224/A17D0E30AEDABED583923B500A24290A5A24A5D7/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/596985016615412224/A17D0E30AEDABED583923B500A24290A5A24A5D7/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/596985016615412224/A17D0E30AEDABED583923B500A24290A5A24A5D7/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_northwest_airfield",
-    "category": "Maps",
-    "title": "GM Northwest Airfield",
-    "description": "A large airfield map suitable for vehicles, roleplay, and sandbox scenes.",
-    "tags": ["Sandbox", "Outdoor"],
-    "image_url": "https://images.steamusercontent.com/ugc/919015595709708528/10818F157AE2541B55F6B85571FD844670E8E42E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/919015595709708528/10818F157AE2541B55F6B85571FD844670E8E42E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/919015595709708528/10818F157AE2541B55F6B85571FD844670E8E42E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_excess_islands",
-    "category": "Maps",
-    "title": "GM Excess Islands",
-    "description": "An islands-style sandbox map with water, open areas, and build space.",
-    "tags": ["Sandbox", "Water"],
-    "image_url": "https://images.steamusercontent.com/ugc/885220845235935822/BD2CC89117739A26B58A0445A07AA6BC9B90EED5/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/885220845235935822/BD2CC89117739A26B58A0445A07AA6BC9B90EED5/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/885220845235935822/BD2CC89117739A26B58A0445A07AA6BC9B90EED5/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-
-  {
-    "id": "gm_coolsnow",
-    "category": "Maps",
-    "title": "GM Coolsnow",
-    "description": "A large open snowy map with hills and roads for vehicles and sandbox play.",
-    "tags": ["Snow", "Sandbox"],
-    "image_url": "https://images.steamusercontent.com/ugc/491187787894529034/BBD442A61E1B32222A8DF6FEDDCBB13BEA5B9A65/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/491187787894529034/BBD442A61E1B32222A8DF6FEDDCBB13BEA5B9A65/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/491187787894529034/BBD442A61E1B32222A8DF6FEDDCBB13BEA5B9A65/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_isles",
-    "category": "Maps",
-    "title": "GM Isles",
-    "description": "Multiple islands, buildings, and wide water surface for sandbox and roleplay.",
-    "tags": ["Island", "Sandbox"],
-    "image_url": "https://images.steamusercontent.com/ugc/596985016615079101/3D6A1ADDBC16B15D10AAE0F12A291528A32D76BE/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/596985016615079101/3D6A1ADDBC16B15D10AAE0F12A291528A32D76BE/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/596985016615079101/3D6A1ADDBC16B15D10AAE0F12A291528A32D76BE/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_bigisland",
-    "category": "Maps",
-    "title": "GM BigIsland",
-    "description": "A huge tropical island with beaches, forests, caves, and rivers.",
-    "tags": ["Island", "Roleplay"],
-    "image_url": "https://images.steamusercontent.com/ugc/576745738839299375/83C2B7288B247D0A321BB00588930EC6A69C0022/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/576745738839299375/83C2B7288B247D0A321BB00588930EC6A69C0022/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/576745738839299375/83C2B7288B247D0A321BB00588930EC6A69C0022/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "city_ruins",
-    "category": "Maps",
-    "title": "City Ruins",
-    "description": "A destroyed city environment suitable for roleplay and combat scenes.",
-    "tags": ["City", "Horror"],
-    "image_url": "https://images.steamusercontent.com/ugc/900998846205129940/EE3236AEA612E8E51F4A458615937F8E0D3257FE/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/900998846205129940/EE3236AEA612E8E51F4A458615937F8E0D3257FE/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/900998846205129940/EE3236AEA612E8E51F4A458615937F8E0D3257FE/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "de_forest",
-    "category": "Maps",
-    "title": "de_forest",
-    "description": "A scenic dense forest map perfect for woodland roleplay and exploration.",
-    "tags": ["Forest", "Scenic"],
-    "image_url": "https://images.steamusercontent.com/ugc/920118814791669595/29413F17721E7E2750D3C0F9A8F26CFEC9230B10/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/920118814791669595/29413F17721E7E2750D3C0F9A8F26CFEC9230B10/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/920118814791669595/29413F17721E7E2750D3C0F9A8F26CFEC9230B10/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "dd_dustbowl_2_day",
-    "category": "Maps",
-    "title": "DD Dustbowl 2 (Day)",
-    "description": "A big sandbox map built for builders, roleplayers, and simulator scenes.",
-    "tags": ["Sandbox", "Building"],
-    "image_url": "https://images.steamusercontent.com/ugc/900979638205094192/8C8C3D94A4899D9C78E02DE9B362EE9550E54087/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/900979638205094192/8C8C3D94A4899D9C78E02DE9B362EE9550E54087/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/900979638205094192/8C8C3D94A4899D9C78E02DE9B362EE9550E54087/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_apartment_raid_v1",
-    "category": "Maps",
-    "title": "GM Apartment Raid (v1)",
-    "description": "An intense defense map set in an apartment environment, great for NPC fights.",
-    "tags": ["Combat", "Indoor"],
-    "image_url": "https://images.steamusercontent.com/ugc/596999343206433435/27C229B1E5D66CBDB6E7B39509DA399870F69FBB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/596999343206433435/27C229B1E5D66CBDB6E7B39509DA399870F69FBB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/596999343206433435/27C229B1E5D66CBDB6E7B39509DA399870F69FBB/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_bay",
-    "category": "Maps",
-    "title": "GM Bay",
-    "description": "An open coastal bay area with roads, houses, beach, and wide water surface.",
-    "tags": ["Coast", "Sandbox"],
-    "image_url": "https://images.steamusercontent.com/ugc/596985016615111555/A7260C97A0C4E27D764A6158B6A823879637F848/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/596985016615111555/A7260C97A0C4E27D764A6158B6A823879637F848/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/596985016615111555/A7260C97A0C4E27D764A6158B6A823879637F848/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "forest_valley",
-    "category": "Maps",
-    "title": "Forest Valley",
-    "description": "A forest valley with a river, waterfall, and lake for scenic sandbox play.",
-    "tags": ["Forest", "Scenic"],
-    "image_url": "https://images.steamusercontent.com/ugc/594750798459321801/CEF93F51BB858E294DC02B15A0B75258687ACF53/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/594750798459321801/CEF93F51BB858E294DC02B15A0B75258687ACF53/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/594750798459321801/CEF93F51BB858E294DC02B15A0B75258687ACF53/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm10_floodinvasion",
-    "category": "Maps",
-    "title": "GM10 Flood Invasion",
-    "description": "An apartment block under siege with flooding, defensive positions, and NPC waves.",
-    "tags": ["Survival", "Combat"],
-    "image_url": "https://images.steamusercontent.com/ugc/939259113101323155/60183351AF0384A3B15EF75C866E330E1F0307D3/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/939259113101323155/60183351AF0384A3B15EF75C866E330E1F0307D3/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/939259113101323155/60183351AF0384A3B15EF75C866E330E1F0307D3/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "innercity",
-    "category": "Maps",
-    "title": "Innercity",
-    "description": "A classic roleplay-style inner city map with detailed streets and interiors.",
-    "tags": ["Roleplay", "City"],
-    "image_url": "https://images.steamusercontent.com/ugc/577845182904629894/C0A935642D623F1B0C95DDC0CDB6A4833F9E9DF2/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/577845182904629894/C0A935642D623F1B0C95DDC0CDB6A4833F9E9DF2/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/577845182904629894/C0A935642D623F1B0C95DDC0CDB6A4833F9E9DF2/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_sandtrap",
-    "category": "Maps",
-    "title": "GM Sandtrap",
-    "description": "A desert-themed sandbox map with structures and open areas for reminders and builds.",
-    "tags": ["Desert", "Sandbox"],
-    "image_url": "https://images.steamusercontent.com/ugc/1137417496832861598/775742107ADA4F27F9CB46CC9AAD9592E1FC642E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/1137417496832861598/775742107ADA4F27F9CB46CC9AAD9592E1FC642E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/1137417496832861598/775742107ADA4F27F9CB46CC9AAD9592E1FC642E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "rp_city45_2013",
-    "category": "Maps",
-    "title": "RP City45 (2013)",
-    "description": "A detailed RP city map built for scenes, comics, machinimas, and sandbox play.",
-    "tags": ["Roleplay", "City"],
-    "image_url": "https://images.steamusercontent.com/ugc/578979876070774597/3AC696C9480FB52BFB0279DD8AD27AD77BD733FA/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/578979876070774597/3AC696C9480FB52BFB0279DD8AD27AD77BD733FA/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/578979876070774597/3AC696C9480FB52BFB0279DD8AD27AD77BD733FA/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
-    ]
-  },
-  {
-    "id": "gm_desertdriving",
-    "category": "Maps",
-    "title": "GM DesertDriving",
-    "description": "A desert driving environment with wide roads and open land for vehicle play.",
-    "tags": ["Vehicles", "Desert"],
-    "image_url": "https://images.steamusercontent.com/ugc/596995005755052059/6B705FC8CC2A6D490C87DC5CD78E40C9BEF712D1/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-    "screenshots": [
-      "https://images.steamusercontent.com/ugc/596995005755052059/6B705FC8CC2A6D490C87DC5CD78E40C9BEF712D1/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
-      "https://images.steamusercontent.com/ugc/596995005755052059/6B705FC8CC2A6D490C87DC5CD78E40C9BEF712D1/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
     ]
   },
 
@@ -467,7 +40,9 @@
     "description": "A collection of advanced weapons with unique features and sci-fi effects.",
     "tags": ["Weapons", "Addon"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"]
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
+    ]
   },
   {
     "id": "wiremod",
@@ -476,7 +51,9 @@
     "description": "A set of tools that allows players to create complex contraptions with electronic components.",
     "tags": ["Addon", "Tools"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"]
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"
+    ]
   },
   {
     "id": "pacific_rim_snpcs",
@@ -485,7 +62,9 @@
     "description": "Adds Jaeger and Kaiju SNPCs from the Pacific Rim franchise.",
     "tags": ["NPC", "Addon"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/"]
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/"
+    ]
   },
   {
     "id": "ulx_admin",
@@ -494,7 +73,9 @@
     "description": "A powerful admin utility for managing servers.",
     "tags": ["Addon", "Admin"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/"]
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/"
+    ]
   },
   {
     "id": "realistic_damage",
@@ -503,16 +84,21 @@
     "description": "A damage system that adds realism to combat scenarios.",
     "tags": ["Addon", "Tools"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/"]
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/"
+    ]
   },
+
   {
     "id": "bitminers_2",
     "category": "Mods",
     "title": "Bitminers 2",
     "description": "Mine bitcoin in Garry's Mod and get rich!",
     "tags": ["Addon", "Fun"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"]
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=bitminers_2",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=bitminers_2"
+    ]
   },
 
   {
@@ -522,29 +108,401 @@
     "description": "Play as a resistance scout dressed in green.",
     "tags": ["NPC"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"]
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
+    ]
   },
- 
+  {
+    "id": "civil_protection",
+    "category": "Skins",
+    "title": "Civil Protection",
+    "description": "Become a Civil Protection officer.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"
+    ]
+  },
   {
     "id": "alyx_vance",
     "category": "Skins",
     "title": "Alyx Vance",
     "description": "Play as Alyx Vance.",
     "tags": ["NPC"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
-    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"]
-  }
-]
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/?v=alyx_vance",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/?v=alyx_vance"
+    ]
+  },
 
+  /* -------------------- NEW MODS (added) -------------------- */
+  {
+    "id": "ttt_trouble_in_terrorist_town",
+    "category": "Mods",
+    "title": "Trouble in Terrorist Town",
+    "description": "A classic social-deduction gamemode with roles, weapons, and rounds.",
+    "tags": ["Gamemode", "Fun"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=ttt",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=ttt"
+    ]
+  },
+  {
+    "id": "darkrp_roleplay",
+    "category": "Mods",
+    "title": "DarkRP Roleplay",
+    "description": "Popular roleplay gamemode with jobs, economy, and city life gameplay.",
+    "tags": ["Gamemode", "Roleplay"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/?v=darkrp",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/?v=darkrp"
+    ]
+  },
+  {
+    "id": "prop_hunt",
+    "category": "Mods",
+    "title": "Prop Hunt",
+    "description": "Hide as props and survive while hunters search the map.",
+    "tags": ["Gamemode", "Party"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/?v=prop_hunt",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/?v=prop_hunt"
+    ]
+  },
+  {
+    "id": "vj_base",
+    "category": "Mods",
+    "title": "VJ Base",
+    "description": "A base addon required by many SNPC packs and NPC systems.",
+    "tags": ["Addon", "Tools"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=vj_base",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=vj_base"
+    ]
+  },
+  {
+    "id": "m9k_weapon_pack",
+    "category": "Mods",
+    "title": "M9K Weapon Pack",
+    "description": "A big weapon pack with many guns, sounds, and effects.",
+    "tags": ["Weapons", "Addon"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/?v=m9k",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/?v=m9k"
+    ]
+  },
+  {
+    "id": "arc9_weapons_base",
+    "category": "Mods",
+    "title": "ARC9 Weapons Base",
+    "description": "Modern weapons base used by many high-quality gun addons.",
+    "tags": ["Weapons", "Tools"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=arc9",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=arc9"
+    ]
+  },
+  {
+    "id": "simfphys_vehicles",
+    "category": "Mods",
+    "title": "Simfphys Vehicles",
+    "description": "Vehicle system addon for drivable cars with physics handling.",
+    "tags": ["Vehicles", "Addon"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/?v=simfphys",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/?v=simfphys"
+    ]
+  },
+  {
+    "id": "lfs_flight_system",
+    "category": "Mods",
+    "title": "LFS Flight System",
+    "description": "Lightweight Flight System addon for aircraft and flying vehicles.",
+    "tags": ["Vehicles", "Addon"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/?v=lfs",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/?v=lfs"
+    ]
+  },
+  {
+    "id": "nextbot_pack",
+    "category": "Mods",
+    "title": "NextBot Pack",
+    "description": "Adds chasing NextBots for chaos, horror, and fun gameplay.",
+    "tags": ["NPC", "Fun"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/?v=nextbot",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/?v=nextbot"
+    ]
+  },
+  {
+    "id": "enhanced_player_model_selector",
+    "category": "Mods",
+    "title": "Enhanced Player Model Selector",
+    "description": "Improves playermodel selection and adds better UI options.",
+    "tags": ["Tools", "Addon"],
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=epms",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=epms"
+    ]
+  },
+  {
+    "id": "advanced_dupe_tool",
+    "category": "Mods",
+    "title": "Advanced Dupe Tool",
+    "description": "Better duplication workflows for building and saving contraptions.",
+    "tags": ["Tools", "Building"],
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=dupe",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=dupe"
+    ]
+  },
+  {
+    "id": "cinematic_camera_tools",
+    "category": "Mods",
+    "title": "Cinematic Camera Tools",
+    "description": "Tools to create smooth camera shots for machinima and screenshots.",
+    "tags": ["Tools", "Cinematic"],
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=cinematic",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=cinematic"
+    ]
+  },
+
+  /* -------------------- NEW SKINS (added) -------------------- */
+  {
+    "id": "gordon_freeman_pm",
+    "category": "Skins",
+    "title": "Gordon Freeman",
+    "description": "Play as Gordon Freeman (classic Half-Life style).",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/?v=gordon",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/?v=gordon"
+    ]
+  },
+  {
+    "id": "barney_calhoun_pm",
+    "category": "Skins",
+    "title": "Barney Calhoun",
+    "description": "Become Barney Calhoun and roleplay with HL characters.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/?v=barney",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/?v=barney"
+    ]
+  },
+  {
+    "id": "combine_soldier_pm",
+    "category": "Skins",
+    "title": "Combine Soldier",
+    "description": "Play as a Combine Soldier with tactical outfit.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=combine",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=combine"
+    ]
+  },
+  {
+    "id": "headcrab_zombie_pm",
+    "category": "Skins",
+    "title": "Headcrab Zombie",
+    "description": "Zombie playermodel for horror scenes and fun sandbox runs.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=headcrab",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=headcrab"
+    ]
+  },
+  {
+    "id": "scientist_pm",
+    "category": "Skins",
+    "title": "Scientist",
+    "description": "Classic scientist playermodel for labs and roleplay.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/?v=scientist",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/?v=scientist"
+    ]
+  },
+  {
+    "id": "rebel_fighter_pm",
+    "category": "Skins",
+    "title": "Rebel Fighter",
+    "description": "Rebel-style playermodel for resistance roleplay scenarios.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=rebel",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=rebel"
+    ]
+  },
+  {
+    "id": "police_officer_pm",
+    "category": "Skins",
+    "title": "Police Officer",
+    "description": "Police playermodel for city roleplay and server scenes.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/?v=police",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/?v=police"
+    ]
+  },
+  {
+    "id": "swat_pm",
+    "category": "Skins",
+    "title": "SWAT Operator",
+    "description": "Tactical SWAT character for combat and RP missions.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/?v=swat",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/?v=swat"
+    ]
+  },
+  {
+    "id": "medic_pm",
+    "category": "Skins",
+    "title": "Medic",
+    "description": "Medic playermodel for rescue roleplay and scenes.",
+    "tags": ["NPC"],
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=medic",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=medic"
+    ]
+  },
   {
     "id": "construction_worker_pm",
     "category": "Skins",
     "title": "Construction Worker",
     "description": "Worker outfit playermodel for city and building roleplay.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=worker",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?v=worker"
+    ]
+  },
+
+  /* -------------------- MORE MODS (added) -------------------- */
+  {
+    "id": "drgbase",
+    "category": "Mods",
+    "title": "DrGBase",
+    "description": "A base framework used by many next-gen NPC addons and packs.",
+    "tags": ["Addon", "Tools"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=drgbase",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=drgbase"
+    ]
+  },
+  {
+    "id": "lambda_players",
+    "category": "Mods",
+    "title": "Lambda Players",
+    "description": "Adds autonomous bot players that roam, talk, and interact dynamically.",
+    "tags": ["NPC", "Fun"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=lambda",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=lambda"
+    ]
+  },
+  {
+    "id": "npc_controller",
+    "category": "Mods",
+    "title": "NPC Controller",
+    "description": "Control NPCs directly and use them for battles and scenes.",
+    "tags": ["NPC", "Tools"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=npc_controller",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=npc_controller"
+    ]
+  },
+  {
+    "id": "ragdoll_mover",
+    "category": "Mods",
+    "title": "Ragdoll Mover",
+    "description": "More control over ragdolls for posing, photos, and machinima.",
+    "tags": ["Tools", "Cinematic"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/?v=ragdoll_mover",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/?v=ragdoll_mover"
+    ]
+  },
+  {
+    "id": "gmod_horror_nextbots",
+    "category": "Mods",
+    "title": "Horror NextBots",
+    "description": "A horror-focused NextBot set for chases and scary gameplay.",
+    "tags": ["NPC", "Horror"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/?v=horror_nextbots",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/?v=horror_nextbots"
+    ]
+  },
+  {
+    "id": "gbombs5",
+    "category": "Mods",
+    "title": "GBombs 5",
+    "description": "Explosives and destruction tools for big sandbox events.",
+    "tags": ["Weapons", "Fun"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/?v=gbombs5",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/?v=gbombs5"
+    ]
+  },
+
+  /* -------------------- MORE SKINS (added) -------------------- */
+  {
+    "id": "gman_pm",
+    "category": "Skins",
+    "title": "G-Man",
+    "description": "Mysterious suit character for roleplay and machinima scenes.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=gman",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/?v=gman"
+    ]
+  },
+  {
+    "id": "eli_vance_pm",
+    "category": "Skins",
+    "title": "Eli Vance",
+    "description": "Play as Eli Vance for Half-Life roleplay setups.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=eli",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/?v=eli"
+    ]
+  },
+  {
+    "id": "kleiner_pm",
+    "category": "Skins",
+    "title": "Dr. Kleiner",
+    "description": "Scientist roleplay character for lab scenes.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=kleiner",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/?v=kleiner"
+    ]
+  },
+  {
+    "id": "metrocop_pm",
+    "category": "Skins",
+    "title": "Metrocop",
+    "description": "City police character for roleplay patrols and missions.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/?v=metrocop",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/?v=metrocop"
+    ]
+  },
+  {
+    "id": "hev_suit_pm",
+    "category": "Skins",
+    "title": "HEV Suit",
+    "description": "Classic HEV suit look for sandbox adventures.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/?v=hev",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/?v=hev"
     ]
   }
 ]
