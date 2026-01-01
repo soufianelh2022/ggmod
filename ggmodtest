@@ -4,7 +4,10 @@
     "category": "Maps",
     "title": "GM Big City",
     "description": "A massive city map with skyscrapers, underground tunnels, and secrets.",
-    "tags": ["City", "Roleplay"],
+    "tags": [
+      "City",
+      "Roleplay"
+    ],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
     "screenshots": [
       "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
@@ -16,7 +19,10 @@
     "category": "Maps",
     "title": "GM Construct",
     "description": "The classic white room sandbox map for building and testing.",
-    "tags": ["Sandbox", "Building"],
+    "tags": [
+      "Sandbox",
+      "Building"
+    ],
     "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
     "screenshots": [
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
@@ -28,7 +34,10 @@
     "category": "Maps",
     "title": "GM Flatgrass",
     "description": "A simple flat grassy area perfect for large contraptions.",
-    "tags": ["Sandbox", "Simple"],
+    "tags": [
+      "Sandbox",
+      "Simple"
+    ],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
     "screenshots": [
       "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
@@ -37,331 +46,519 @@
   },
 
   {
-    "id": "gm_cliffhouse",
-    "category": "Maps",
-    "title": "GM Cliffhouse",
-    "description": "A scenic cliffside map with open areas for building and exploring.",
-    "tags": ["Sandbox", "Explore"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-    "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
-    ]
-  },
-  {
-    "id": "gm_excess_construct",
-    "category": "Maps",
-    "title": "GM Excess Construct",
-    "description": "A construct-style sandbox map with extra rooms and bigger build space.",
-    "tags": ["Sandbox", "Building"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-    "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
-    ]
-  },
-  {
-    "id": "gm_excess_islands",
-    "category": "Maps",
-    "title": "GM Excess Islands",
-    "description": "Sandbox islands map with water, beaches, and open building zones.",
-    "tags": ["Sandbox", "Water"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/"
-    ]
-  },
-  {
-    "id": "gm_ragdoll_slaughter",
-    "category": "Maps",
-    "title": "GM Ragdoll Slaughter",
-    "description": "A fun sandbox arena map made for ragdolls, weapons, and chaos.",
-    "tags": ["Fun", "Arena"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/"
-    ]
-  },
-  {
-    "id": "gm_highrise",
-    "category": "Maps",
-    "title": "GM Highrise",
-    "description": "High-rise rooftop sandbox map with vertical gameplay and views.",
-    "tags": ["City", "Sandbox"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/"
-    ]
-  },
-  {
-    "id": "gm_metro",
-    "category": "Maps",
-    "title": "GM Metro",
-    "description": "A subway/metro themed map for roleplay and exploration scenes.",
-    "tags": ["City", "Roleplay"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/"
-    ]
-  },
-  {
-    "id": "gm_genesis",
-    "category": "Maps",
-    "title": "GM Genesis",
-    "description": "A sandbox map designed for building, testing, and posing scenes.",
-    "tags": ["Sandbox", "Building"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-    "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
-    ]
-  },
-  {
     "id": "gm_shambles",
     "category": "Maps",
     "title": "GM Shambles",
-    "description": "A darker sandbox environment with compact spaces and atmosphere.",
-    "tags": ["Sandbox", "Dark"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "description": "A darker sandbox suburb with abandoned streets and eerie atmosphere.",
+    "tags": [
+      "Sandbox",
+      "Dark"
+    ],
+    "image_url": "file:///android_asset/maps/gm_shambles.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "file:///android_asset/maps/gm_shambles_1.jpg",
+      "file:///android_asset/maps/gm_shambles_2.jpg"
     ]
   },
   {
     "id": "gm_york",
     "category": "Maps",
     "title": "GM York",
-    "description": "A city-style sandbox map with streets, buildings, and open space.",
-    "tags": ["City", "Sandbox"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
+    "description": "A city-style sandbox map with streets, buildings, and metro vibes.",
+    "tags": [
+      "City",
+      "Sandbox"
+    ],
+    "image_url": "file:///android_asset/maps/gm_york.jpg",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/"
+      "file:///android_asset/maps/gm_york_1.jpg",
+      "file:///android_asset/maps/gm_york_2.jpg"
     ]
   },
   {
     "id": "gm_atomic",
     "category": "Maps",
     "title": "GM Atomic",
-    "description": "An industrial sandbox map with warehouse areas and open yards.",
-    "tags": ["Sandbox", "Industrial"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "description": "A post-apocalyptic sandbox environment for sniping and survival scenes.",
+    "tags": [
+      "Sandbox",
+      "Industrial"
+    ],
+    "image_url": "file:///android_asset/maps/gm_atomic.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "file:///android_asset/maps/gm_atomic_1.jpg",
+      "file:///android_asset/maps/gm_atomic_2.jpg"
     ]
   },
   {
-    "id": "gm_laser",
+    "id": "gm_lair",
     "category": "Maps",
-    "title": "GM Laser",
-    "description": "A sandbox test map focused on physics experiments and fun setups.",
-    "tags": ["Sandbox", "Testing"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "title": "GM Lair",
+    "description": "A tropical island with a secret base—perfect for adventure roleplay.",
+    "tags": [
+      "Scenic",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/gm_lair.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "file:///android_asset/maps/gm_lair_1.jpg",
+      "file:///android_asset/maps/gm_lair_2.jpg"
     ]
   },
   {
-    "id": "gm_desertbase",
+    "id": "gm_fork",
     "category": "Maps",
-    "title": "GM Desert Base",
-    "description": "A desert sandbox map with base structures and open terrain.",
-    "tags": ["Sandbox", "Desert"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
+    "title": "GM Fork",
+    "description": "Small sandbox map with roads and open space—great for quick tests.",
+    "tags": [
+      "Sandbox",
+      "Testing"
+    ],
+    "image_url": "file:///android_asset/maps/gm_fork.jpg",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/"
+      "file:///android_asset/maps/gm_fork_1.jpg",
+      "file:///android_asset/maps/gm_fork_2.jpg"
     ]
   },
   {
-    "id": "gm_snowyterrain",
+    "id": "gm_mobenix",
     "category": "Maps",
-    "title": "GM Snowy Terrain",
-    "description": "A snowy sandbox environment for winter scenes and roleplay.",
-    "tags": ["Sandbox", "Snow"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
+    "title": "GM Mobenix",
+    "description": "Clean sandbox map with modern structures and creative building spots.",
+    "tags": [
+      "Sandbox",
+      "Building"
+    ],
+    "image_url": "file:///android_asset/maps/gm_mobenix.jpg",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/"
+      "file:///android_asset/maps/gm_mobenix_1.jpg",
+      "file:///android_asset/maps/gm_mobenix_2.jpg"
     ]
   },
   {
-    "id": "gm_oceanisland",
+    "id": "gm_freespace_13",
     "category": "Maps",
-    "title": "GM Ocean Island",
-    "description": "A small island sandbox map with water around it for boats and scenes.",
-    "tags": ["Water", "Sandbox"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
+    "title": "GM Freespace 13",
+    "description": "Wide open sandbox with extra space for big contraptions and stunts.",
+    "tags": [
+      "Sandbox",
+      "Simple"
+    ],
+    "image_url": "file:///android_asset/maps/gm_freespace_13.jpg",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/"
+      "file:///android_asset/maps/gm_freespace_13_1.jpg",
+      "file:///android_asset/maps/gm_freespace_13_2.jpg"
     ]
   },
   {
-    "id": "gm_storageyard",
+    "id": "gm_bluehills_test3",
     "category": "Maps",
-    "title": "GM Storage Yard",
-    "description": "A compact sandbox map with containers, buildings, and open yard space.",
-    "tags": ["Sandbox", "Compact"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "title": "GM Blue Hills",
+    "description": "Classic sandbox hills with roads and wide fields for vehicles.",
+    "tags": [
+      "Sandbox",
+      "Scenic"
+    ],
+    "image_url": "file:///android_asset/maps/gm_bluehills_test3.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "file:///android_asset/maps/gm_bluehills_test3_1.jpg",
+      "file:///android_asset/maps/gm_bluehills_test3_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_highway14800",
+    "category": "Maps",
+    "title": "GM Highway 14800",
+    "description": "Highway sandbox map—fast driving, chases, and stunts.",
+    "tags": [
+      "Sandbox",
+      "City"
+    ],
+    "image_url": "file:///android_asset/maps/gm_highway14800.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_highway14800_1.jpg",
+      "file:///android_asset/maps/gm_highway14800_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_coast",
+    "category": "Maps",
+    "title": "GM Coast",
+    "description": "Ocean-side sandbox with cliffs and water for scenic gameplay.",
+    "tags": [
+      "Water",
+      "Scenic"
+    ],
+    "image_url": "file:///android_asset/maps/gm_coast.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_coast_1.jpg",
+      "file:///android_asset/maps/gm_coast_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_novenka",
+    "category": "Maps",
+    "title": "GM Novenka",
+    "description": "Detailed town map with streets and buildings for roleplay sessions.",
+    "tags": [
+      "City",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/gm_novenka.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_novenka_1.jpg",
+      "file:///android_asset/maps/gm_novenka_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_trainride",
+    "category": "Maps",
+    "title": "GM Train Ride",
+    "description": "Train-focused map for cinematic scenes and fun experiments.",
+    "tags": [
+      "Scenic",
+      "Fun"
+    ],
+    "image_url": "file:///android_asset/maps/gm_trainride.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_trainride_1.jpg",
+      "file:///android_asset/maps/gm_trainride_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_spacebuild",
+    "category": "Maps",
+    "title": "GM Spacebuild",
+    "description": "Space-themed build map for sci-fi bases and roleplay.",
+    "tags": [
+      "Space",
+      "Building"
+    ],
+    "image_url": "file:///android_asset/maps/gm_spacebuild.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_spacebuild_1.jpg",
+      "file:///android_asset/maps/gm_spacebuild_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_abandoned_hospital",
+    "category": "Maps",
+    "title": "Abandoned Hospital",
+    "description": "Creepy hospital corridors—great for horror roleplay and screenshots.",
+    "tags": [
+      "Horror",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/gm_abandoned_hospital.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_abandoned_hospital_1.jpg",
+      "file:///android_asset/maps/gm_abandoned_hospital_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_boreas",
+    "category": "Maps",
+    "title": "GM Boreas",
+    "description": "Cold industrial sandbox with buildings and open areas.",
+    "tags": [
+      "Industrial",
+      "Sandbox"
+    ],
+    "image_url": "file:///android_asset/maps/gm_boreas.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_boreas_1.jpg",
+      "file:///android_asset/maps/gm_boreas_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_pyramid",
+    "category": "Maps",
+    "title": "GM Pyramid",
+    "description": "Desert map with pyramid structures for exploration and combat setups.",
+    "tags": [
+      "Scenic",
+      "Adventure"
+    ],
+    "image_url": "file:///android_asset/maps/gm_pyramid.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_pyramid_1.jpg",
+      "file:///android_asset/maps/gm_pyramid_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_island",
+    "category": "Maps",
+    "title": "GM Island",
+    "description": "Open island sandbox with beaches and trees for relaxed play.",
+    "tags": [
+      "Water",
+      "Sandbox"
+    ],
+    "image_url": "file:///android_asset/maps/gm_island.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_island_1.jpg",
+      "file:///android_asset/maps/gm_island_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_evocity",
+    "category": "Maps",
+    "title": "GM EvoCity",
+    "description": "City roleplay map with streets, buildings, and landmarks.",
+    "tags": [
+      "City",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/gm_evocity.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_evocity_1.jpg",
+      "file:///android_asset/maps/gm_evocity_2.jpg"
+    ]
+  },
+  {
+    "id": "rp_downtown_v2",
+    "category": "Maps",
+    "title": "RP Downtown V2",
+    "description": "Popular downtown roleplay layout with roads and city blocks.",
+    "tags": [
+      "City",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/rp_downtown_v2.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/rp_downtown_v2_1.jpg",
+      "file:///android_asset/maps/rp_downtown_v2_2.jpg"
+    ]
+  },
+  {
+    "id": "rp_downtown_tits",
+    "category": "Maps",
+    "title": "RP Downtown Tits",
+    "description": "Downtown roleplay map set in a compact modern city area.",
+    "tags": [
+      "City",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/rp_downtown_tits.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/rp_downtown_tits_1.jpg",
+      "file:///android_asset/maps/rp_downtown_tits_2.jpg"
+    ]
+  },
+  {
+    "id": "rp_rockford_v2b",
+    "category": "Maps",
+    "title": "RP Rockford",
+    "description": "Large roleplay city map with neighborhoods and long roads.",
+    "tags": [
+      "City",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/rp_rockford_v2b.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/rp_rockford_v2b_1.jpg",
+      "file:///android_asset/maps/rp_rockford_v2b_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_forest",
+    "category": "Maps",
+    "title": "GM Forest",
+    "description": "Dense forest sandbox for exploration, camping scenes, and horror setups.",
+    "tags": [
+      "Scenic",
+      "Adventure"
+    ],
+    "image_url": "file:///android_asset/maps/gm_forest.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_forest_1.jpg",
+      "file:///android_asset/maps/gm_forest_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_snowy_mountain",
+    "category": "Maps",
+    "title": "Snowy Mountain",
+    "description": "Snow map with mountain routes for vehicles and survival scenes.",
+    "tags": [
+      "Scenic",
+      "Sandbox"
+    ],
+    "image_url": "file:///android_asset/maps/gm_snowy_mountain.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_snowy_mountain_1.jpg",
+      "file:///android_asset/maps/gm_snowy_mountain_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_desert_race",
+    "category": "Maps",
+    "title": "Desert Race",
+    "description": "Desert tracks and open dunes—perfect for driving and stunts.",
+    "tags": [
+      "Sandbox",
+      "Fun"
+    ],
+    "image_url": "file:///android_asset/maps/gm_desert_race.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_desert_race_1.jpg",
+      "file:///android_asset/maps/gm_desert_race_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_underpass",
+    "category": "Maps",
+    "title": "GM Underpass",
+    "description": "Urban underpass map for quick fights, testing, and screenshots.",
+    "tags": [
+      "City",
+      "Testing"
+    ],
+    "image_url": "file:///android_asset/maps/gm_underpass.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_underpass_1.jpg",
+      "file:///android_asset/maps/gm_underpass_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_sewermaze",
+    "category": "Maps",
+    "title": "Sewer Maze",
+    "description": "Underground tunnels and maze routes—great for horror chase gameplay.",
+    "tags": [
+      "Horror",
+      "Dark"
+    ],
+    "image_url": "file:///android_asset/maps/gm_sewermaze.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_sewermaze_1.jpg",
+      "file:///android_asset/maps/gm_sewermaze_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_mall",
+    "category": "Maps",
+    "title": "GM Mall",
+    "description": "Indoor mall map for roleplay, exploration, and funny sandbox moments.",
+    "tags": [
+      "Roleplay",
+      "Fun"
+    ],
+    "image_url": "file:///android_asset/maps/gm_mall.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_mall_1.jpg",
+      "file:///android_asset/maps/gm_mall_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_parking_lot",
+    "category": "Maps",
+    "title": "Parking Lot",
+    "description": "Compact outdoor map for quick builds, tests, and NPC fights.",
+    "tags": [
+      "Sandbox",
+      "Testing"
+    ],
+    "image_url": "file:///android_asset/maps/gm_parking_lot.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_parking_lot_1.jpg",
+      "file:///android_asset/maps/gm_parking_lot_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_subway",
+    "category": "Maps",
+    "title": "GM Subway",
+    "description": "Subway stations and tunnels—perfect for cinematic scenes.",
+    "tags": [
+      "City",
+      "Dark"
+    ],
+    "image_url": "file:///android_asset/maps/gm_subway.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_subway_1.jpg",
+      "file:///android_asset/maps/gm_subway_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_laboratory",
+    "category": "Maps",
+    "title": "Secret Laboratory",
+    "description": "Sci-fi lab interiors for experiments, combat tests, and roleplay.",
+    "tags": [
+      "Industrial",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/gm_laboratory.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_laboratory_1.jpg",
+      "file:///android_asset/maps/gm_laboratory_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_bunker",
+    "category": "Maps",
+    "title": "Underground Bunker",
+    "description": "Tight bunker corridors with rooms—great for survival roleplay.",
+    "tags": [
+      "Dark",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/gm_bunker.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_bunker_1.jpg",
+      "file:///android_asset/maps/gm_bunker_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_shipwreck",
+    "category": "Maps",
+    "title": "Shipwreck Cove",
+    "description": "Beach + shipwreck scene for exploration and water gameplay.",
+    "tags": [
+      "Water",
+      "Scenic"
+    ],
+    "image_url": "file:///android_asset/maps/gm_shipwreck.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_shipwreck_1.jpg",
+      "file:///android_asset/maps/gm_shipwreck_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_airport",
+    "category": "Maps",
+    "title": "Airport",
+    "description": "Airport terminals and runways for action, chases, and roleplay.",
+    "tags": [
+      "City",
+      "Roleplay"
+    ],
+    "image_url": "file:///android_asset/maps/gm_airport.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_airport_1.jpg",
+      "file:///android_asset/maps/gm_airport_2.jpg"
     ]
   },
   {
     "id": "gm_warehouse",
     "category": "Maps",
-    "title": "GM Warehouse",
-    "description": "A warehouse sandbox map for indoor builds, fights, and scenes.",
-    "tags": ["Sandbox", "Indoor"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "title": "Warehouse",
+    "description": "Industrial warehouse map for fights, props, and tool testing.",
+    "tags": [
+      "Industrial",
+      "Testing"
+    ],
+    "image_url": "file:///android_asset/maps/gm_warehouse.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "file:///android_asset/maps/gm_warehouse_1.jpg",
+      "file:///android_asset/maps/gm_warehouse_2.jpg"
     ]
   },
   {
-    "id": "gm_traininggrounds",
+    "id": "gm_arena",
     "category": "Maps",
-    "title": "GM Training Grounds",
-    "description": "A sandbox map built like a training area for NPCs and weapons testing.",
-    "tags": ["Testing", "Arena"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-    "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
-    ]
-  },
-  {
-    "id": "gm_cityblocks",
-    "category": "Maps",
-    "title": "GM City Blocks",
-    "description": "A city block sandbox map for chases, roleplay, and scenes.",
-    "tags": ["City", "Sandbox"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/",
-      "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/"
-    ]
-  },
-  {
-    "id": "gm_bridge",
-    "category": "Maps",
-    "title": "GM Bridge",
-    "description": "A sandbox map centered on a big bridge structure and nearby terrain.",
-    "tags": ["Sandbox", "Build"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-    "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
-    ]
-  },
-
-  {
-    "id": "void_weapons",
-    "category": "Mods",
-    "title": "VoidEngineer Weapons",
-    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
-    "tags": ["Weapons", "Addon"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
-    ]
-  },
-  {
-    "id": "wiremod",
-    "category": "Mods",
-    "title": "Wiremod",
-    "description": "A set of tools that allows players to create complex contraptions with electronic components.",
-    "tags": ["Addon", "Tools"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"
-    ]
-  },
-  {
-    "id": "pacific_rim_snpcs",
-    "category": "Mods",
-    "title": "Pacific Rim SNPCs",
-    "description": "Adds Jaeger and Kaiju SNPCs from the Pacific Rim franchise.",
-    "tags": ["NPC", "Addon"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/"
-    ]
-  },
-  {
-    "id": "ulx_admin",
-    "category": "Mods",
-    "title": "ULX Admin Mod",
-    "description": "A powerful admin utility for managing servers.",
-    "tags": ["Addon", "Admin"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/"
-    ]
-  },
-  {
-    "id": "realistic_damage",
-    "category": "Mods",
-    "title": "Realistic Damage System",
-    "description": "A damage system that adds realism to combat scenarios.",
-    "tags": ["Addon", "Tools"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/"
-    ]
-  },
-  {
-    "id": "bitminers_2",
-    "category": "Mods",
-    "title": "Bitminers 2",
-    "description": "Mine bitcoin in Garry's Mod and get rich!",
-    "tags": ["Addon", "Fun"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"
-    ]
-  },
-  {
-    "id": "resistance_scout",
-    "category": "Skins",
-    "title": "Resistance Scout",
-    "description": "Play as a resistance scout dressed in green.",
-    "tags": ["NPC"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
-    ]
-  },
-  {
-    "id": "civil_protection",
-    "category": "Skins",
-    "title": "Civil Protection",
-    "description": "Become a Civil Protection officer.",
-    "tags": ["NPC"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"
-    ]
-  },
-  {
-    "id": "alyx_vance",
-    "category": "Skins",
-    "title": "Alyx Vance",
-    "description": "Play as Alyx Vance.",
-    "tags": ["NPC"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"
-    ]
-  }
-]
+    "title": "Combat Arena",
+    "description": "Small arena map designed for NPC battles and weapon tests.",
+    "tags": [
+      "Sandbo
