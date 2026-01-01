@@ -598,34 +598,34 @@
   {
     "id": "server_admin_panel",
     "category": "Mods",
-    "title": "Server Admin Panel",
+    "title": "Hundred Acre Wood (Kingdom Hearts)",
     "description": "A lightweight admin panel UI for quick moderation: kick/ban, cleanup, and basic server controls.",
     "tags": ["Admin", "Tools"],
-    "image_url": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/5dd0d4a1bcd15561860a06ea76969dfce4ff6b76.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/9867252330001498990/4BA18E4AB3151426B1E3B15F1E9C7352CDE177F1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/5dd0d4a1bcd15561860a06ea76969dfce4ff6b76.jpg"
+      "https://images.steamusercontent.com/ugc/13232123446081916755/34339064CBFC23D745B8BC201ADE608EBECB8F42/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
     "id": "roleplay_props_bundle",
     "category": "Mods",
-    "title": "Roleplay Props Bundle",
+    "title": "Flame Core Boss Arena (Prop)",
     "description": "A big collection of RP props: signs, furniture, devices, and decorative items for city servers.",
     "tags": ["Roleplay", "Addon"],
-    "image_url": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/a200f9a8cc7327f9885218ff2e1a9317ce711459.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/16473500329231542668/F78839893B4DE53C4F50D37D328BE0B20DBDC2B8/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/a200f9a8cc7327f9885218ff2e1a9317ce711459.jpg"
+      "https://images.steamusercontent.com/ugc/9293130518935887761/72A65B659AD42513939B8E27D202F7FE148658F3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
     "id": "vehicle_spawner_kit",
     "category": "Mods",
-    "title": "Vehicle Spawner Kit",
+    "title": "[TFA-VOX] DMZ Shadow Company Agents Sound Pack",
     "description": "Adds a simple vehicle spawner menu with quick presets for sandbox driving and stunts.",
     "tags": ["Vehicles", "Addon"],
-    "image_url": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/c45ed5c18d9b92d68ea034d13fe0ee537110753f.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/14000026519936934723/FB3D7B5D7C128DD8CBA2BCFAF803D9E55AC91D78/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/c45ed5c18d9b92d68ea034d13fe0ee537110753f.jpg"
+      "https://images.steamusercontent.com/ugc/16691074375201362395/A58D2279D758005664E3A0109E6FFBAC0B07EC81/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -645,20 +645,20 @@
     "title": "Sandbox Challenges",
     "description": "Adds mini challenges (timed builds, survival waves, stunt objectives) for solo or co-op fun.",
     "tags": ["Fun", "Addon"],
-    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/extras/8320d5af21c404d3376c1673e4e19e1b.avif?t=1764757984",
+    "image_url": "https://images.steamusercontent.com/ugc/17935185403935278130/68312265C2891FF57D650921696957D345B66507/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/extras/8320d5af21c404d3376c1673e4e19e1b.avif?t=1764757984"
+      "https://images.steamusercontent.com/ugc/15896815939664441511/2B4F83C2B3E47EB1366EA90991D1C64B20515BA8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
     "id": "cinematic_camera_tools",
     "category": "Mods",
-    "title": "Cinematic Camera Tools",
+    "title": "Greg's Magnetizer Tool",
     "description": "Camera tools for creators: smooth movement, presets, and quick capture workflow for clips.",
     "tags": ["Tools", "Addon"],
-    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/extras/8c67a825acb4b25e6b28379fc37b88c2.avif?t=1764757984",
+    "image_url": "https://images.steamusercontent.com/ugc/13906534059273233542/3E41D258786FAD7269EB4537E4C47C76657E8AE3/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/extras/8c67a825acb4b25e6b28379fc37b88c2.avif?t=1764757984"
+      "https://images.steamusercontent.com/ugc/16101959976200405881/98B8366AF4E21CC3271ABC7A669E729781E847E5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -673,38 +673,38 @@
     ]
   },
   {
-    "id": "cinematic_camera_tools",
+    "id": "Red Orchestra: Ostfront 41-45 Furniture Pack",
     "category": "Mods",
-    "title": "Cinematic Camera Tools",
+    "title": "Red Orchestra: Ostfront 41-45 Furniture Pack",
     "description": "Tools to create smooth camera shots for machinima and screenshots.",
     "tags": ["Tools", "Cinematic"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/16366536640174466031/B4C7829329156FB62532EDAE36CBF828622E13EE/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/12794285367534936766/565F1FAB35321E933B1D3F9326FCD0A95D2803E7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
 
   /* -------------------- NEW SKINS (added) -------------------- */
   {
-    "id": "gordon_freeman_pm",
+    "id": "TTT - Prop Disguiser",
     "category": "Skins",
-    "title": "Gordon Freeman",
+    "title": "TTT - Prop Disguiser",
     "description": "Play as Gordon Freeman (classic Half-Life style).",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/30719431548098367/F60820B88B1AB8EE90DB695603502CA3DF983B67/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/30719431548125204/831CFB5E084F8F38FCEF22C34D3656C71D5F7570/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
-    "id": "barney_calhoun_pm",
+    "id": "[Fallout: Red Arizona] New California Republic",
     "category": "Skins",
-    "title": "Barney Calhoun",
+    "title": "[Fallout: Red Arizona] New California Republic",
     "description": "Become Barney Calhoun and roleplay with HL characters.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/14719107639893272291/3B7E55807AFBD4E88E69BBDF8814A6C9388377D4/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/13834088924544247072/84F5DF9CD1843537DC591DE3DE7487BA898151AD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -713,9 +713,9 @@
     "title": "Combine Soldier",
     "description": "Play as a Combine Soldier with tactical outfit.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/16163489403825302149/7DB35655F9B008FFF576C02C5D3A12D8F1E97A77/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/12055339595713165123/BBD3CA9019489A131A684122F1610EEE6C52690B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -724,9 +724,9 @@
     "title": "Headcrab Zombie",
     "description": "Zombie playermodel for horror scenes and fun sandbox runs.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/15041882302420667050/1BE5B8386917452923D2D964DBA097E70D1789A9/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/17052266135594809779/F62CF127A7CEDD26526C8F3EB7C1D2E77E99EF43/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -735,9 +735,9 @@
     "title": "Scientist",
     "description": "Classic scientist playermodel for labs and roleplay.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/268345016182666964/C1A4D849E26F649DC77344DEB575601D45FECCBA/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/268345016182708476/EF1F49C84CF80C48ED7970937B088D77D9D21308/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -746,9 +746,9 @@
     "title": "Rebel Fighter",
     "description": "Rebel-style playermodel for resistance roleplay scenarios.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/2496767915194352642/B4D3598F2DFBF3C078D58D3352113CD921FBD7CF/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/2496767915194370698/8CFDF629C6AE3438FB0E1335CD0F51109E7A6464/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -757,9 +757,9 @@
     "title": "Police Officer",
     "description": "Police playermodel for city roleplay and server scenes.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/2137580477401256714/1E8C41024236CAE851FF520CAF23C315045A9A28/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/2137580477396013166/F883FAC5A462D2BFF311B354AE7D376BE9C1A3B4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -768,9 +768,9 @@
     "title": "SWAT Operator",
     "description": "Tactical SWAT character for combat and RP missions.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/2055373930156826029/C61A086BD44B1E637A0698847026190534C69A2D/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/2068884729059884592/33349A6F69E7656D74013F12B875E02A37A99FC6/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -779,9 +779,9 @@
     "title": "Medic",
     "description": "Medic playermodel for rescue roleplay and scenes.",
     "tags": ["NPC"],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://images.steamusercontent.com/ugc/1854931650834795513/15A9E985AB80072E75B8F5BC11F0B3E009FC4B0C/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://images.steamusercontent.com/ugc/1854931650841293718/9496D243C9F5F32F4B1E60775C7E0775913350B2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
