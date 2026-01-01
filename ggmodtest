@@ -561,4 +561,167 @@
     "title": "Combat Arena",
     "description": "Small arena map designed for NPC battles and weapon tests.",
     "tags": [
-      "Sandbo
+      "Sandbox",
+      "Testing"
+    ],
+    "image_url": "file:///android_asset/maps/gm_arena.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_arena_1.jpg",
+      "file:///android_asset/maps/gm_arena_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_canyon",
+    "category": "Maps",
+    "title": "Canyon",
+    "description": "Rocky canyon space for vehicles, explosions, and stunt jumps.",
+    "tags": [
+      "Sandbox",
+      "Adventure"
+    ],
+    "image_url": "file:///android_asset/maps/gm_canyon.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_canyon_1.jpg",
+      "file:///android_asset/maps/gm_canyon_2.jpg"
+    ]
+  },
+  {
+    "id": "gm_caves",
+    "category": "Maps",
+    "title": "Deep Caves",
+    "description": "Dark caves and tunnels for exploration and horror scenes.",
+    "tags": [
+      "Horror",
+      "Dark"
+    ],
+    "image_url": "file:///android_asset/maps/gm_caves.jpg",
+    "screenshots": [
+      "file:///android_asset/maps/gm_caves_1.jpg",
+      "file:///android_asset/maps/gm_caves_2.jpg"
+    ]
+  },
+
+  {
+    "id": "void_weapons",
+    "category": "Mods",
+    "title": "VoidEngineer Weapons",
+    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
+    "tags": [
+      "Weapons",
+      "Addon"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
+    ]
+  },
+  {
+    "id": "wiremod",
+    "category": "Mods",
+    "title": "Wiremod",
+    "description": "A set of tools that allows players to create complex contraptions with electronic components.",
+    "tags": [
+      "Addon",
+      "Tools"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"
+    ]
+  },
+  {
+    "id": "pacific_rim_snpcs",
+    "category": "Mods",
+    "title": "Pacific Rim SNPCs",
+    "description": "Adds Jaeger and Kaiju SNPCs from the Pacific Rim franchise.",
+    "tags": [
+      "NPC",
+      "Addon"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/"
+    ]
+  },
+  {
+    "id": "ulx_admin",
+    "category": "Mods",
+    "title": "ULX Admin Mod",
+    "description": "A powerful admin utility for managing servers.",
+    "tags": [
+      "Addon",
+      "Admin"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/"
+    ]
+  },
+  {
+    "id": "realistic_damage",
+    "category": "Mods",
+    "title": "Realistic Damage System",
+    "description": "A damage system that adds realism to combat scenarios.",
+    "tags": [
+      "Addon",
+      "Tools"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/"
+    ]
+  },
+  {
+    "id": "bitminers_2",
+    "category": "Mods",
+    "title": "Bitminers 2",
+    "description": "Mine bitcoin in Garry's Mod and get rich!",
+    "tags": [
+      "Addon",
+      "Fun"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"
+    ]
+  },
+  {
+    "id": "resistance_scout",
+    "category": "Skins",
+    "title": "Resistance Scout",
+    "description": "Play as a resistance scout dressed in green.",
+    "tags": [
+      "NPC"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
+    ]
+  },
+  {
+    "id": "civil_protection",
+    "category": "Skins",
+    "title": "Civil Protection",
+    "description": "Become a Civil Protection officer.",
+    "tags": [
+      "NPC"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"
+    ]
+  },
+  {
+    "id": "alyx_vance",
+    "category": "Skins",
+    "title": "Alyx Vance",
+    "description": "Play as Alyx Vance.",
+    "tags": [
+      "NPC"
+    ],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"
+    ]
+  }
+]
