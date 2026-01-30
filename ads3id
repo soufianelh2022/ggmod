@@ -1,0 +1,22 @@
+{
+  "ads": {
+    "ShowAds": true,
+    "ShowLoadingAds": true,
+    "ClickCount": 1,
+    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobBanner1": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobBanner2": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobInterstitial1": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobInterstitial2": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "AdmobNative1": "ca-app-pub-3940256099942544/2247696110",
+    "AdmobNative2": "ca-app-pub-3940256099942544/2247696110",
+    "AdmobOpen": "ca-app-pub-3940256099942544/9257395923",
+    "AdmobOpen1": "ca-app-pub-3940256099942544/9257395923",
+    "AdmobOpen2": "ca-app-pub-3940256099942544/9257395923",
+    "AdmobReward": "ca-app-pub-3940256099942544/5224354917",
+    "AdmobReward1": "ca-app-pub-3940256099942544/5224354917",
+    "AdmobReward2": "ca-app-pub-3940256099942544/5224354917"
+  }
+}
