@@ -1,7 +1,7 @@
 {
   "ads": {
-    "ShowAds": true,
-    "ShowLoadingAds": true,
+    "ShowAds": false,
+    "ShowLoadingAds": false,
     "ClickCount": 3,
     "AdmobBanner": "ca-app-pub-5318077592177136/1299456292",
     "AdmobBanner1": "ca-app-pub-5318077592177136/1299456292",
