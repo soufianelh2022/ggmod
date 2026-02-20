@@ -11,6 +11,42 @@
       "https://steamuserimages-a.akamaihd.net/ugc/594781154030671609/FA5543FA41AC4F1E547144C6A816C6D68C0C1635/"
     ]
   },
+{
+    "id": "city_limits_day",
+    "category": "Maps",
+    "title": "City Limits (Day)",
+    "description": "A daylight city environment with streets, buildings, and exploration paths.",
+    "tags": ["City", "Roleplay"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/060A18F390E0355B1A5D0E5B7A6C4B3F5C8A33D6/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/060A18F390E0355B1A5D0E5B7A6C4B3F5C8A33D6/",
+      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/060A18F390E0355B1A5D0E5B7A6C4B3F5C8A33D6/"
+    ]
+  },
+ {
+    "id": "gm_funzone",
+    "category": "Maps",
+    "title": "GM Funzone",
+    "description": "A playful sandbox map with varied areas made for fun experiments and builds.",
+    "tags": ["Sandbox", "Fun"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/441127731373346397/93B0FAF04D1BFD16F060C2A68AFD30CBBCE88B09/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/441127731373346397/93B0FAF04D1BFD16F060C2A68AFD30CBBCE88B09/",
+      "https://steamuserimages-a.akamaihd.net/ugc/441127731373346397/93B0FAF04D1BFD16F060C2A68AFD30CBBCE88B09/"
+    ]
+  },
+  {
+    "id": "gm_compound_night",
+    "category": "Maps",
+    "title": "GM Compound (Night)",
+    "description": "A darker environment with compact spaces and atmosphere.",
+    "tags": ["Sandbox", "Dark"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1856043687576755269/5206751D23D7A15BDBB9DBA8F94D50A6250D35E4/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1856043687576755269/5206751D23D7A15BDBB9DBA8F94D50A6250D35E4/",
+      "https://steamuserimages-a.akamaihd.net/ugc/1856043687576755269/5206751D23D7A15BDBB9DBA8F94D50A6250D35E4/"
+    ]
+  },
   {
     "id": "gm_construct",
     "category": "Maps",
@@ -33,6 +69,18 @@
     "screenshots": [
       "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
       "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/"
+    ]
+  },
+ {
+    "id": "gm_warmap_v5",
+    "category": "Maps",
+    "title": "GM Warmap (v5)",
+    "description": "A tactical sandbox map with structured zones for testing and combat play.",
+    "tags": ["Sandbox", "Testing"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/",
+      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/"
     ]
   },
 
@@ -61,6 +109,18 @@
     ]
   },
   {
+    "id": "gm_construct",
+    "category": "Maps",
+    "title": "GM Construct",
+    "description": "The classic white room sandbox map for building and testing.",
+    "tags": ["Sandbox", "Building"],
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+    ]
+  },
+  {
     "id": "gm_bigcity_4t",
     "category": "Maps",
     "title": "GM Bigcity (4T)",
@@ -84,6 +144,18 @@
       "https://steamuserimages-a.akamaihd.net/ugc/1856043687576755269/5206751D23D7A15BDBB9DBA8F94D50A6250D35E4/"
     ]
   },
+{
+    "id": "rp_paralake_city",
+    "category": "Maps",
+    "title": "RP Paralake City",
+    "description": "A bright modern city-style roleplay map with clean streets and open spaces.",
+    "tags": ["Roleplay", "City"],
+    "image_url": "https://images.steamusercontent.com/ugc/3317202311098340507/B2FD3368533BDF40E380FAF4B32C29289579EE4E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/3317202311098340507/B2FD3368533BDF40E380FAF4B32C29289579EE4E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true",
+      "https://images.steamusercontent.com/ugc/3317202311098340507/B2FD3368533BDF40E380FAF4B32C29289579EE4E/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
+    ]
+  },
   {
     "id": "gm_funzone",
     "category": "Maps",
@@ -97,18 +169,8 @@
     ]
   },
 
-  {
-    "id": "gm_warmap_v5",
-    "category": "Maps",
-    "title": "GM Warmap (v5)",
-    "description": "A tactical sandbox map with structured zones for testing and combat play.",
-    "tags": ["Sandbox", "Testing"],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2038488119594250933/0BDF382A1A0BDAA1505B870E43A425C746E9A6C6/"
-    ]
-  },
+ 
+
   {
     "id": "rebellland",
     "category": "Maps",
@@ -459,6 +521,17 @@
       "https://images.steamusercontent.com/ugc/596995005755052059/6B705FC8CC2A6D490C87DC5CD78E40C9BEF712D1/?ima=fit&imcolor=%23000000&imh=200&impolicy=Letterbox&imw=200&letterbox=true"
     ]
   },
+{
+    "id": "wiremod",
+    "category": "Mods",
+    "title": "AFK Camera Effects",
+    "description": "A set of tools that allows players to create complex contraptions with electronic components.",
+    "tags": ["Addon", "Tools"],
+    "image_url": "https://images.steamusercontent.com/ugc/14315045854229033121/16B057A7E8141A845D414D920FD3AA61F6F7B6FA/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/9752163271623927102/C562C27BCCDB82C67BFB30E85C9AA2B3834F9A9D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    ]
+  },
 
   {
     "id": "void_weapons",
@@ -513,6 +586,17 @@
     "image_url": "https://images.steamusercontent.com/ugc/15243474589092137730/7FE2799A68BE3C25D0E0D52C483F0217D258A7A2/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "screenshots": [
       "https://images.steamusercontent.com/ugc/11334234700617707028/ADAD923C4B4624318163B0CFC132EBB6ACCA3235/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    ]
+  },
+ {
+    "id": "ulx_admin",
+    "category": "Mods",
+    "title": "Modern Interactions",
+    "description": "A powerful admin utility for managing servers.",
+    "tags": ["Addon", "Admin"],
+    "image_url": "https://images.steamusercontent.com/ugc/12691590396295796045/4690F3CD83BE58DF7FE14EDAEF11E5D4180EDA20/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/14821746538007960008/7931D64A1196884AB4047520E7A889B22FCD3BCA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
@@ -573,6 +657,39 @@
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/page_bg_raw.jpg?t=1764757984"
     ]
   },
+{
+    "id": "sw_lightsabers",
+    "category": "Mods",
+    "title": "Star Wars Lightsabers",
+    "description": "Lightsabers addon for Garry's Mod.",
+    "tags": ["Addon", "Weapons", "StarWars"],
+    "image_url": "https://images.steamusercontent.com/ugc/314496214527742133/54564C72017229ACCD16D59CEB2ECDBF00E8F62B/?ima=fit&imcolor=%23000000&imh=268&impolicy=Letterbox&imw=268&letterbox=true",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/314496214527742133/54564C72017229ACCD16D59CEB2ECDBF00E8F62B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    ]
+  },
+{
+    "id": "murder_gamemode",
+    "category": "Mods",
+    "title": "Murder",
+    "description": "A classic murder mystery gamemode for GMod.",
+    "tags": ["Addon", "Gamemode"],
+    "image_url": "https://images.steamusercontent.com/ugc/579003433420971587/0C12628FC8A407C8467F89FF0EB10E5DBAA2F96C/?ima=fit&imcolor=%23000000&imh=268&impolicy=Letterbox&imw=268&letterbox=true",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/579003433420971587/0C12628FC8A407C8467F89FF0EB10E5DBAA2F96C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    ]
+  },
+  {
+    "id": "dynamic_fabric",
+    "category": "Mods",
+    "title": "Azkabath's Dynamic Fabric",
+    "description": "Dynamic cloth/fabric system addon.",
+    "tags": ["Addon", "Realism"],
+    "image_url": "https://images.steamusercontent.com/ugc/13056285376598690642/AFE13D0B0D78BACA34AAA06CE44CA387C0BC3AA9/?ima=fit&imcolor=%23000000&imh=268&impolicy=Letterbox&imw=268&letterbox=true",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/13056285376598690642/AFE13D0B0D78BACA34AAA06CE44CA387C0BC3AA9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    ]
+  },
   {
     "id": "npc_encounters_pack",
     "category": "Mods",
@@ -593,6 +710,17 @@
     "image_url": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg",
     "screenshots": [
       "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg"
+    ]
+  },
+  {
+    "id": "crack_man_model",
+    "category": "Mods",
+    "title": "Crack Man (Original Model) Playermodel",
+    "description": "Playermodel addon.",
+    "tags": ["Addon", "Model", "Playermodel"],
+    "image_url": "https://images.steamusercontent.com/ugc/10191111556560624833/8A08775DBB20137E454E3972CECA25E86E363142/?ima=fit&imcolor=%23000000&imh=268&impolicy=Letterbox&imw=268&letterbox=true",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/10191111556560624833/8A08775DBB20137E454E3972CECA25E86E363142/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
   {
