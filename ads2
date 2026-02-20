@@ -2,8 +2,8 @@
   "ads": {
     "ShowAds": true,
     "ShowLoadingAds": true,
-    "ShowAdsEverywhere": false,
-    "ClickCount": 0,
+    "ShowAdsEverywhere": true,
+    "ClickCount": 2,
     
     "PriorityBanner": "Max",
     "priorityInterstitial": "Max",
