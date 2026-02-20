@@ -2,8 +2,8 @@
   "ads": {
     "ShowAds": true,
     "ShowLoadingAds": true,
-    "ShowAdsEverywhere": true,
-    "ClickCount": 2,
+    "ShowAdsEverywhere": false,
+    "ClickCount": 3,
     
     "PriorityBanner": "yandex",
     "priorityInterstitial": "yandex",
