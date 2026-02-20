@@ -868,6 +868,61 @@
       "https://images.steamusercontent.com/ugc/268345016182708476/EF1F49C84CF80C48ED7970937B088D77D9D21308/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     ]
   },
+{
+    "id": "ttt_prop_disguiser",
+    "category": "Skins",
+    "title": "TTT - Prop Disguiser",
+    "description": "Disguise as props in Trouble in Terrorist Town mode.",
+    "tags": ["Skin", "TTT", "Prop"],
+    "image_url": "https://images.steamusercontent.com/ugc/30719431548098367/F60820B88B1AB8EE90DB695603502CA3DF983B67/?imw=268&imh=268&ima=fit&impolicy=Letterbox",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/30719431548125204/831CFB5E084F8F38FCEF22C34D3656C71D5F7570/?imw=637&imh=358&ima=fit&impolicy=Letterbox"
+    ]
+  },
+  {
+    "id": "gordon_freeman_classic",
+    "category": "Skins",
+    "title": "Gordon Freeman (Classic)",
+    "description": "Classic Half-Life Gordon Freeman playermodel for Garry’s Mod.",
+    "tags": ["Skin", "Half-Life", "Playermodel"],
+    "image_url": "https://images.steamusercontent.com/ugc/30719431548098367/F60820B88B1AB8EE90DB695603502CA3DF983B67/?imw=268&imh=268&ima=fit&impolicy=Letterbox",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/30719431548125204/831CFB5E084F8F38FCEF22C34D3656C71D5F7570/?imw=637&imh=358&ima=fit&impolicy=Letterbox"
+    ]
+  },
+  {
+    "id": "combine_soldier_skin",
+    "category": "Skins",
+    "title": "Combine Soldier",
+    "description": "Play as a Combine Soldier from the Half-Life universe.",
+    "tags": ["Skin", "Half-Life", "Combine"],
+    "image_url": "https://images.steamusercontent.com/ugc/30719431548098367/F60820B88B1AB8EE90DB695603502CA3DF983B67/?imw=268&imh=268&ima=fit&impolicy=Letterbox",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/30719431548125204/831CFB5E084F8F38FCEF22C34D3656C71D5F7570/?imw=637&imh=358&ima=fit&impolicy=Letterbox"
+    ]
+  },
+  {
+    "id": "citizen_male_skin",
+    "category": "Skins",
+    "title": "City 17 Citizen (Male)",
+    "description": "Standard City 17 male citizen playermodel.",
+    "tags": ["Skin", "Citizen", "Roleplay"],
+    "image_url": "https://images.steamusercontent.com/ugc/30719431548098367/F60820B88B1AB8EE90DB695603502CA3DF983B67/?imw=268&imh=268&ima=fit&impolicy=Letterbox",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/30719431548125204/831CFB5E084F8F38FCEF22C34D3656C71D5F7570/?imw=637&imh=358&ima=fit&impolicy=Letterbox"
+    ]
+  },
+  {
+    "id": "scientist_skin",
+    "category": "Skins",
+    "title": "Half-Life Scientist",
+    "description": "Classic Half-Life scientist playermodel.",
+    "tags": ["Skin", "Scientist", "Half-Life"],
+    "image_url": "https://images.steamusercontent.com/ugc/30719431548098367/F60820B88B1AB8EE90DB695603502CA3DF983B67/?imw=268&imh=268&ima=fit&impolicy=Letterbox",
+    "screenshots": [
+      "https://images.steamusercontent.com/ugc/30719431548125204/831CFB5E084F8F38FCEF22C34D3656C71D5F7570/?imw=637&imh=358&ima=fit&impolicy=Letterbox"
+    ]
+  },
   {
     "id": "rebel_fighter_pm",
     "category": "Skins",
