@@ -5,11 +5,11 @@
     "ShowAdsEverywhere": true,
     "ClickCount": 1,
     
-    "PriorityBanner": "Max",
-    "priorityInterstitial": "Max",
-    "PriorityNative": "Max",
-    "PriorityOpen": "Max",
-    "PriorityReward": "Max",
+    "PriorityBanner": "max",
+    "priorityInterstitial": "max",
+    "PriorityNative": "max",
+    "PriorityOpen": "max",
+    "PriorityReward": "max",
 
     "yandex_banner": "demo-banner-yandex",
     "yandex_inter": "demo-interstitial-yandex",
