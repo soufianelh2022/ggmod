@@ -5,11 +5,11 @@
     "ShowAdsEverywhere": true,
     "ClickCount": 1,
     
-    "PriorityBanner": "max",
-    "priorityInterstitial": "max",
-    "PriorityNative": "max",
-    "PriorityOpen": "max",
-    "PriorityReward": "max",
+    "PriorityBanner": "admob",
+    "priorityInterstitial": "admob",
+    "PriorityNative": "admob",
+    "PriorityOpen": "admob",
+    "PriorityReward": "admob",
 
     "yandex_banner": "R-M-18777721-1",
     "yandex_inter": "R-M-18777721-3",
@@ -23,10 +23,10 @@
     "MaxReward": "2fb36b0f2923dc54",
     "Maxopen": "4d58fddcaa6db5c1",
 
-    "AdmobBanner": "ca-app-pub-5318077592177136/6545478960",
-    "AdmobInterstitial": "ca-app-pub-5318077592177136/3400440873",
-    "AdmobNative": "ca-app-pub-5318077592177136/2334771211",
-    "AdmobReward": "ca-app-pub-5318077592177136/5232397290",
-    "AdmobOpen": "ca-app-pub-5318077592177136/3240658775"
+    "AdmobBanner": "ca-app-pub-5318077592177136/9347386560",
+    "AdmobInterstitial": "ca-app-pub-5318077592177136/6525093742",
+    "AdmobNative": "ca-app-pub-5318077592177136/2585848732",
+    "AdmobReward": "ca-app-pub-5318077592177136/7235540183",
+    "AdmobOpen": "ca-app-pub-5318077592177136/9809732634"
   }
 }
